@@ -1,0 +1,3 @@
+site=ossbb.com.ua
+login=dsfsdf
+pas=dfsgd
